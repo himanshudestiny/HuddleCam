@@ -43,7 +43,6 @@
 
 
 <h2>Deployed Link</h2>
-<p>https://frontend-oh5pidb6p-himanshudestiny.vercel.app/<p>
+<p>https://frontend-38izakjju-himanshudestiny.vercel.app/<p>
 
-<h2>Presentation Link</h2>
-<p></p>
+
